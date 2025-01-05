@@ -25,7 +25,7 @@
       "title": "Implémentation des discussions",
       "subtitle": "Une fonctionnalité de discussions est ajoutée pour faciliter les échanges.",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/3.png",
-    "navigation": "Chat",
+      "navigation": "Discussions",
       "href": null,
       "button": "Essayer"
     },
