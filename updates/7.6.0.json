@@ -17,6 +17,14 @@
       "title": "Améliorations de l'interface",
       "subtitle": "De nombreux détails de l'interface ont été améliorées pour votre expérience utilisateur.",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/2.png"
+    },
+    {
+      "title": "Notifications",
+      "subtitle": "Les notifications pour les actualités sont désormais disponibles !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/4.png",
+      "navigation": "SettingsNotification",
+      "href": null,
+      "button": "Activer"
     }
   ],
   "bugfixes": [
