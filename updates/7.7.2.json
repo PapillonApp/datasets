@@ -1,0 +1,53 @@
+{
+  "version": "7.7.2",
+  "title": "Version 7.7.2",
+  "subtitle": "Bienvenue aux nouveaux arrivants !",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/version.png",
+  "description": "Vous êtes maintenant plus de 750 000 à utiliser l'application. On en a donc profité pour améliorer deux ou trois petites choses...",
+  "features": [
+    {
+      "title": "Introduction des compétences",
+      "subtitle": "Les compétences sont désormais affichées et intégrées dans les évaluations.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/1.png",
+      "navigation": "Evaluation",
+      "href": null,
+      "button": "Essayer"
+    },
+    {
+      "title": "Ajout du contenu de cours",
+      "subtitle": "Le contenu des séances peut maintenant être enrichi avec des éléments supplémentaires.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/2.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Implémentation des discussions",
+      "subtitle": "Une fonctionnalité de discussions est ajoutée pour faciliter les échanges.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/3.png",
+      "navigation": "Discussions",
+      "href": null,
+      "button": "Essayer"
+    },
+    {
+      "title": "Réactions aux notes",
+      "subtitle": "Des réactions personnalisées peuvent désormais être ajoutées aux notes.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "Grades",
+      "href": null,
+      "button": "Essayer"
+    }
+  ],
+  "bugfixes": [
+    {
+      "title": "Refresh automatique",
+      "subtitle": "Un rafraîchissement automatique est maintenant effectué à la réouverture de l'application même si elle est dans l'arrière-plan.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/5.png"
+    },
+    {
+      "title": "Nouvelle cantine et bugs corrigés",
+      "subtitle": "Une nouvelle cantine a été ajoutée et plusieurs bugs mineurs ont été corrigés.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/6.png"
+    }
+  ]
+}
