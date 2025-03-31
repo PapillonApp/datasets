@@ -1,0 +1,16 @@
+{
+  "version": "7.12",
+  "title": "Voici Papillon 7.12",
+  "subtitle": "Encore un bain de nouveautés pour Papillon !",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.12.0/title.jpg",
+  "description": "Après quelques semaines d'attente, nos développeurs et contributeurs vous ont réservé plein de surprises à découvrir !",
+  "features": [
+    {
+      "title": "Papillon s'adapte à vous !",
+      "subtitle": "Maintenant, vous pouvez choisir entre plusieurs choix de personnalisation pour décorer votre écran d'accueil.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.12.0/1.png"
+    }
+  ],
+  "bugfixes": [
+  ]
+}
