@@ -13,7 +13,7 @@
   ],
   "bugfixes": [
     {
-      "title": "Erreur de raffraîchissement",
+      "title": "Erreur de rafraîchissement",
       "subtitle": "Réglage d'un problème de rafraîchissement qui pouvait entraîner des erreurs lors de l'ouverture de l'application."
     }
   ]
