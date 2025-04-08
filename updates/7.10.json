@@ -5,7 +5,111 @@
   "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.10.0/version.jpg",
   "description": "Après quelques semaines d'attente, nos développeurs et contributeurs vous ont réservé plein de surprises à découvrir !",
   "features": [
+    {
+      "title": "Arrivée du multi-service",
+      "subtitle": "Il est maintenant possible d'associer les données provenant de divers services dans un seul compte !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "A FAIRE",
+      "href": null,
+      "button": "Créer un espace multi-service"
+    },
+    {
+      "title": "Les notifications sont enfin là",
+      "subtitle": "Cours annulés, nouvelles notes, retards... soyez prévenu dès que possible !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "NOTIFICATIONS",
+      "href": null,
+      "button": "Activer les notifications"
+    },
+    {
+      "title": "Affichage des étiquettes du menu",
+      "subtitle": "Plat fait maison, provenant de l'agriculture biologique, allergènes... tout est désormais indiqué !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/3.png",
+      "navigation": "A REMPLACER",
+      "href": null,
+      "button": "Voir le menu"
+    },
+    {
+      "title": "Désactivation des vibrations",
+      "subtitle": "Une nouvelle option fait son apparition en même temps que la page d'accessibilité, celle de désactiver les vibrations.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/3.png",
+      "navigation": "A REMPLACER",
+      "href": null,
+      "button": "Voir le menu"
+    },
+    {
+      "title": "Accueil amélioré",
+      "subtitle": "Rubriques lorsqu'aucune information disponible, affichage dynamique des devoirs, fluidité du scroll...",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "Home",
+      "href": null,
+      "button": "Y aller"
+    },
+    {
+      "title": "Nouvelle page de support",
+      "subtitle": "Depuis les paramètres de Papillon, contacte rapidement et simplement le support.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "SUPPORT",
+      "href": null,
+      "button": "Y aller"
+    },
+    {
+      "title": "Papillon sur tablette",
+      "subtitle": "L'organisation des onglets, la taille des pages... tout est désormais agréable sur une tablette.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Nouvelle vue de la semaine",
+      "subtitle": "Un nouvel onglet, proposant une vue de l'emploi du temps relative par semaine, a été ajouté.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "A REMPLACER",
+      "href": null,
+      "button": "Essayer"
+    },
+    {
+      "title": "Réinitisation de la photo de profil",
+      "subtitle": "Tu peux désormais réinitialiser ta photo de profil à celle fournie par ton service, sans avoir à te déconnecter.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/4.png",
+      "navigation": "A REMPLACER",
+      "href": null,
+      "button": "Essayer"
+    }
   ],
   "bugfixes": [
+    {
+      "title": "Récupération des données de Pronote",
+      "subtitle": "Après un changement du côté de Pronote, Papillon peut à nouveau récupérer tes notes.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/1.png",
+      "navigation": "Grades",
+      "href": null,
+      "button": "Voir mes notes"
+    },
+    {
+      "title": "Connexion à Turbo Self",
+      "subtitle": "La connexion aux comptes Turbo Self est à nouveau fonctionnelle.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/1.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Un design toujours plus agréable et intuitif",
+      "subtitle": "L'interface de Papillon est continuellement travaillée et paufinée !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/2.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Et une tonne d'autres bugs fixés",
+      "subtitle": "Vie scolaire, self, actualités... l'entièreté de Papillon a été revu & améliorée !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.7.0/2.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    }
   ]
 }
