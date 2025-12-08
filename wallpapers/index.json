@@ -1,25 +1,25 @@
 [
    {
       "name": "Unsplash",
-      "icon": "https://raw.githack.com/PapillonApp/datasets/05cf282a7d0d26954f846b16849cfeb107828a2f/wallpapers/icons/unsplash.jpg",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/unsplash.jpg",
       "link": "https://unsplash.com/",
       "images": [
          {
             "id": "unsplash:1501785888041",
-            "url": "https://rawcdn.githack.com/PapillonApp/datasets/d5485de075d481ffc34f3d5cdc91e4d807769be0/wallpapers/images/unsplash:1501785888041.jpg",
-            "thumbnail": "https://rawcdn.githack.com/PapillonApp/datasets/d5485de075d481ffc34f3d5cdc91e4d807769be0/wallpapers/images/unsplash:1501785888041-preview.jpg",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash:1501785888041.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash:1501785888041-preview.jpg",
             "credit": "Pietro De Grandi"
          }
       ]
    },
    {
       "name": "Radiance",
-      "icon": "https://raw.githack.com/PapillonApp/datasets/05cf282a7d0d26954f846b16849cfeb107828a2f/wallpapers/icons/radiance.jpg",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/radiance.jpg",
       "link": "https://radiancewallpapers.com/",
       "images": [
          {
             "id": "radiance:6766",
-            "url": "https://rawcdn.githack.com/PapillonApp/datasets/d5485de075d481ffc34f3d5cdc91e4d807769be0/wallpapers/images/radiance:6766.jpg",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance:6766.jpg",
             "credit": "Asher Dipprey"
          }
       ]
