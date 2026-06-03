@@ -1,62 +1,94 @@
 [
-   {
-      "name": "Unsplash",
-      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/unsplash.jpg",
-      "link": "https://unsplash.com/",
-      "images": [
-         {
-            "id": "unsplash:100",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:100.jpg",
-            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/previews/unsplash:100-preview.jpg",
-            "credit": "Pietro De Grandi"
-         },
-         {
-            "id": "unsplash:101",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:101.jpg",
-            "credit": "David Becker"
-         },
-         {
-            "id": "unsplash:102",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:102.jpg",
-            "credit": "Yiquan Zhang"
-         },
-         {
-            "id": "unsplash:103",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:103.jpg",
-            "credit": "David Becker"
-         }
-      ]
-   },
-   {
-      "name": "Radiance",
-      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/radiance.jpg",
-      "link": "https://radiancewallpapers.com/",
-      "images": [
-         {
-            "id": "radiance:100",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:100.jpg",
-            "credit": "Asher Dipprey"
-         },
-         {
-            "id": "radiance:101",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:101.jpg",
-            "credit": "Asher Dipprey"
-         },
-         {
-            "id": "radiance:102",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:102.jpg",
-            "credit": "Aiden Johnson"
-         },
-         {
-            "id": "radiance:103",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:103.jpg",
-            "credit": "Private Talky"
-         },
-         {
-            "id": "radiance:104",
-            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:104.jpg",
-            "credit": "Shanestech"
-         }
-      ]
-   }
+  {
+    "name": "Unsplash",
+    "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/unsplash.jpg",
+    "link": "https://unsplash.com/",
+    "images": [
+      {
+        "id": "unsplash:100",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:100.jpg",
+        "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/previews/unsplash:100-preview.jpg",
+        "credit": "Pietro De Grandi"
+      },
+      {
+        "id": "unsplash:101",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:101.jpg",
+        "credit": "David Becker"
+      },
+      {
+        "id": "unsplash:102",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:102.jpg",
+        "credit": "Yiquan Zhang"
+      },
+      {
+        "id": "unsplash:103",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:103.jpg",
+        "credit": "David Becker"
+      }
+    ]
+  },
+  {
+    "name": "Radiance",
+    "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/radiance.jpg",
+    "link": "https://radiancewallpapers.com/",
+    "images": [
+      {
+        "id": "radiance:100",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:100.jpg",
+        "credit": "Asher Dipprey"
+      },
+      {
+        "id": "radiance:101",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:101.jpg",
+        "credit": "Asher Dipprey"
+      },
+      {
+        "id": "radiance:102",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:102.jpg",
+        "credit": "Aiden Johnson"
+      },
+      {
+        "id": "radiance:103",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:103.jpg",
+        "credit": "Private Talky"
+      },
+      {
+        "id": "radiance:104",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:104.jpg",
+        "credit": "Shanestech"
+      }
+    ]
+  },
+  {
+    "name": "Gradient",
+    "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/gradient.jpg",
+    "link": "https://github.com/PapillonApp/datasets",
+    "images": [
+      {
+        "id": "gradient:blue",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradient/blue.jpg",
+        "credit": "PapillonApp"
+      },
+      {
+        "id": "gradient:green",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradient/green.jpg",
+        "credit": "PapillonApp"
+      },
+      {
+        "id": "gradient:pink",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradient/pink.jpg",
+        "credit": "PapillonApp"
+      },
+      {
+        "id": "gradient:red",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradient/red.jpg",
+        "credit": "PapillonApp"
+      },
+      {
+        "id": "gradient:yellow",
+        "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradient/yellow.jpg",
+        "credit": "PapillonApp"
+      }
+    ]
+  }
 ]
