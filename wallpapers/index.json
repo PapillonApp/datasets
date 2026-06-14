@@ -312,6 +312,11 @@
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:104.jpg",
             "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:104-preview.jpg",
             "credit": "Shanestech"
+         },
+         {
+            "id": "radiance:105",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:105.jpg",
+            "credit": "geralt (Pixabay)"
          }
       ]
    }
